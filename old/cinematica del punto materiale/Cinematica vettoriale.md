@@ -1,4 +1,4 @@
-La cinematica vettoriale si usa per descrivere il moto in modo molto più accurato rispetto al metodo dell'ascissa curvilinea.
+>La cinematica vettoriale si usa per descrivere il moto in modo molto più accurato rispetto al metodo dell'ascissa curvilinea.
 
 Definiamo un vettore posizione con origine all'origine e con vertice un punto in un instante:
 $$\overrightarrow{r}=\overrightarrow{OP}(t)$$
