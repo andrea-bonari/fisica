@@ -3,3 +3,4 @@ Il corso di Fisica inizia con un'introduzione alle grandezze fisiche, scalari e 
 1. [[Introduzione al corso]]
 2. [[Cinematica del punto materiale]]
 	1. [[Meccanica/Cinematica/Cinematica del moto rettilineo|Cinematica del moto rettilineo]]
+	2. [[Meccanica/Cinematica/Cinematica vettoriale|Cinematica vettoriale]]
