@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Meccanica/Moti relativi/Dinamica relativa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Dinamica relativa"
             }
           }
         ]
@@ -167,10 +167,10 @@
   },
   "active": "38501c5bc132ca9e",
   "lastOpenFiles": [
+    "index.md",
     "Meccanica/Moti relativi/Cinematica relativa.md",
     "Meccanica/Moti relativi/Dinamica relativa.md",
     "Meccanica/Moti relativi/Moti relativi.md",
-    "index.md",
     "old/data/Pasted image 20240811154339.png",
     "old/data/Pasted image 20240410092757.png",
     "old/data/Pasted image 20240406170540.png",
