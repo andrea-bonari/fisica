@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Meccanica/Dinamica/Forze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Forze"
             }
           }
         ]
@@ -167,13 +167,13 @@
   },
   "active": "3800a21963f12c44",
   "lastOpenFiles": [
+    "index.md",
     "Meccanica/Dinamica/Gravitazione universale.md",
     "Meccanica/Dinamica/Teorema dell'energia cinetica.md",
     "Meccanica/Dinamica/Teorema del momento dell'impulso.md",
     "old/cinematica e dinamica relativa/Gravitazione universale.md",
     "old/cinematica e dinamica relativa/Moti relativi.md",
     "Meccanica/Cinematica/Cinematica vettoriale.md",
-    "index.md",
     "Untitled.md",
     "data/Pasted image 20250324142157.png",
     "Meccanica/Dinamica/Momento angolare.md",
