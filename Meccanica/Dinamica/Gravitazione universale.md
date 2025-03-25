@@ -15,3 +15,21 @@ Riguardo l'energia potenziale si ha che: $$L_{\overrightarrow{F}_{g}}^{AB}= \lef
 >1. I pianeti compiono orbite ellittiche attorno al sole con esso uno dei due fuochi.
 >2. Il raggio vettore che collega il sole al pianeta spazza aree uguali in tempi uguali.
 >3. Il quadrato dei periodi di rivoluzione è proporzionale al cubo del semiasse maggiore dell'ellisse ($T^{2}=kR^{2}$).
+
+### Moto orbitale
+>[!note]
+>Assegniamo a un punto materiale $P$ in orbita momento angolare $\overrightarrow{L}$ e energia meccanica $E$ costante. Si ha che se l'energia meccanica è positiva, avrà una traiettoria iperbolica, se l'energia meccanica è nulla avrà una traiettoria parabolica, e se è negativa avrà traiettoria ellittica. Inoltre se $E$ è pari al valore di energia potenziale efficace minima $U_{\text{eff}}= \frac{L^{2}}{2mr^{2}}- G \frac{Mm}{r}$ avrà traiettoria circolare.
+
+>[!example] Dimostrazione
+>Sia per ipotesi il momento angolare $\overrightarrow{L}$ costante: $$\overrightarrow{L}=\overrightarrow{r}\times\overrightarrow{p}= rp_{\perp}\hat{u}_{z}$$
+>Che in coordinate polari è: $$\overrightarrow{L}=\overrightarrow{r}\times(r'\hat{u}_{r}+r\theta'\hat{u}_{\theta})=mr^{2}\theta'\hat{u}_{z}$$
+>Studiamo il moto al variare dell'energia meccanica $E$: $$\begin{align*}
+>E&=  \frac{1}{2}mv^{2}- G \frac{Mm}{r}= \underbrace{\frac{1}{2}mr'^{2}}_{E_{k,r}}+ \underbrace{\frac{1}{2}mr^{2}\theta'^{2}}_{E_{k,t}}- G \frac{Mm}{r}
+>\end{align*}$$
+>Abbiamo che: $$E_{k,t}= \frac{1}{2}mr^{2}\theta'^{2}\cdot \frac{r^{2}}{r^{2}}\cdot \frac{m}{m}= \frac{L^{2}}{2mr^{2}}$$
+>E quindi: $$E= \frac{1}{2}mr'^{2}+ \frac{L^{2}}{2mr^{2}}-G \frac{Mm}{r}$$
+>Definiamo un energia potenziale efficace: $$U_{\text{eff}}= \frac{L^{2}}{2mr^{2}}- G \frac{Mm}{r}\Longrightarrow E= \frac{1}{2}mr'^{2}+ U_{\text{eff}}(r)$$
+>Consideriamo il caso in cui $E>0$, abbiamo che $r\geq r_{\min}$ e $E_{k,r}(r_{\min})=0$, e quindi $P$ può raggiungere $r\to\infty$ seguendo come traiettoria un iperbole.
+>Consideriamo il caso in cui $E=0$, abbiamo che $r\geq r_{a}$, e $P$ può raggiungere $r\to\infty$ seguendo come traiettoria una parabola.
+>Consideriamo il caso in cui $E<0$, abbiamo che $r_{c}\leq r<< r_{d}$ e $P$ ha quindi ha una traiettoria ellittica con punto $c$ perielio e $d$ afelio.
+>Infine, consideriamo il caso in cui $E=U_{\text{eff},\min}$ per cui la traiettoria è una circonferenza.
