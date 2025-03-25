@@ -28,15 +28,15 @@ Il segno dello spostamento determina se esso è concorde con l'asse.
 
 ### Moti particolari
 >[!note] Moto Rettilineo Uniformemente Accelerato
->Avendo un accelerazione costante $a\in\mathbb{R}$, è possibile ricavare la velocità utilizzando il problema inverso: $$v(t)=v_{0}+a(t-t_{0})$$
->Analogamente, nota la velocità, è possibile ricavare la legge oraria: $$x(t)=x_{0}+v_{0}(t-t_{0})+ \frac{1}{2}a(t-t_{0})^{2}$$
+>Avendo un accelerazione costante $a_{0}\in\mathbb{R}$, è possibile ricavare la velocità utilizzando il problema inverso: $$v(t)=v_{0}+a_{0}(t-t_{0})$$
+>Analogamente, nota la velocità, è possibile ricavare la legge oraria: $$x(t)=x_{0}+v_{0}(t-t_{0})+ \frac{1}{2}a_{0}(t-t_{0})^{2}$$
 
 >[!note] Moto di caduta libera
 >Il moto di caduta libera è un MRUA rivolto verso il basso, con accelerazione costante di: $$g= 9.81 \frac{\text{m}}{\text{s}^{2}}$$
 >Tutti i corpi in prossimità della superficie terrestre sono soggetti a questo moto.
 
 >[!note] Moto Rettilineo Uniforme
->Avendo un accelerazione nulla, si ha una velocità costante $v\in\mathbb{R}$. È possibile quindi ricavare la legge oraria: $$x(t)=x_{0}+v_{0}(t-t_{0})$$
+>Avendo un accelerazione nulla, si ha una velocità costante $v_{0}\in\mathbb{R}$. È possibile quindi ricavare la legge oraria: $$x(t)=x_{0}+v_{0}(t-t_{0})$$
 
 ### Ascissa curvilinea
 >[!note]
