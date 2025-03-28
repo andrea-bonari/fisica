@@ -31,6 +31,3 @@
 >Infine calcoliamo: $$\frac{\text{d}}{\text{d}t} \left(\overrightarrow{\omega}\times\overrightarrow{v}\space'\right)= \frac{\text{d}\overrightarrow{\omega}}{\text{d}t}\bigg|_{S}\times\overrightarrow{r}\space'+\overrightarrow{\omega}\times \frac{\text{d}\overrightarrow{r}\space'}{\text{d}t}\bigg|_{S}=\overrightarrow{\alpha}\times\overrightarrow{r}\space'+\overrightarrow{\omega}\times\left(\overrightarrow{v}\space'+\overrightarrow{\omega}\times\overrightarrow{r}\space'\right)$$
 >Unendo il tutto otteniamo: $$\overrightarrow{a}\space'+\overrightarrow{\omega}\times\overrightarrow{v}\space'=\overrightarrow{a}-\overrightarrow{a}_{O'}-\overrightarrow{\alpha}\times\overrightarrow{r}\space'-\overrightarrow{\omega}\times\overrightarrow{v}\space'-\overrightarrow{\omega}\times\overrightarrow{\omega}\times\overrightarrow{r}\space'$$
 >Che semplificato diventa: $$\overrightarrow{a}\space'=\overrightarrow{a}-(\overrightarrow{a}_{O'}+\overrightarrow{\omega}\times\overrightarrow{\omega}\times\overrightarrow{r}\space'+\overrightarrow{\alpha}\times\overrightarrow{r}\space')-2\overrightarrow{\omega}\times\overrightarrow{v}\space'$$
-
-
-
