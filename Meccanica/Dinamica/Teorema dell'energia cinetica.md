@@ -32,20 +32,20 @@ L_{-kx}^{AB}&= \frac{1}{2}kx_{A}^{2}- \frac{1}{2}kx_{B}^{2}=U_{e}(A)-U_{e}(B)
 \end{align*}$$
 ### Teorema di conservazione dell'energia meccanica
 >[!note]
->Sia per ipotesi, la risultante di una forza composta da sole forze conservative. Definiamo la somma di tutte le energie potenziali e cinetica di un punto come energia meccanica. Si ha che essa si conserva attraverso il moto da un punto $A$ a un punto $B$: $$E_\text{mc}(B)=E_\text{mc}(A)$$
->
+>Sia per ipotesi, la risultante di una forza composta da sole forze conservative. Definiamo la somma di tutte le energie potenziali e cinetica di un punto come energia meccanica. Si ha che essa si conserva attraverso il moto da un generico punto $A$ ad un generico punto $B$: $$E_\text{mecc}(B)=E_\text{mecc}(A)$$
+>Con $E_{\text{mecc}}(P)=U(P)+E_{k}(P)$.
 
 >[!example] Dimostrazione
 >Sia $\overrightarrow{F}=\overrightarrow{F}_{1}+\overrightarrow{F}_{2}$ la risultante di forze conservative: $$\begin{align*}
 >L_{\overrightarrow{F}_{1}}^{AB}+L^{AB}_{\overrightarrow{F}_{2}}&= E_{k}(B)-E_{k}(A)=U_{1}(A)-U_{1}(B)+U_{2}(A)-U_{2}(B)\\
 >&\Rightarrow   U_{1}(B)+U_{2}(B)+E_{k}(B)= U_{1}(A)+U_{2}(A)+E_{k}(A)\\
->&\Rightarrow E_\text{mc}(B)=E_\text{mc}(A)
+>&\Rightarrow E_\text{mecc}(B)=E_\text{mecc}(A)
 >\end{align*}$$
 
 In presenza di forze conservative, l'energia potenziale si trasforma in cinetica.
 
-Nel caso in cui siano presenti anche forze non conservative il teorema di conservazione dell'energia meccanica afferma che se è presente una variazione di energia meccanica allora esiste una forza non conservativa il cui lavoro è diverso da zero: $$\Delta E_{\text{mc}}\neq0\iff \exists \overrightarrow{F}_{\text{NonCons}}:\quad L^{AB}_{\overrightarrow{F}}\neq0$$
-
+Nel caso in cui siano presenti anche forze non conservative il teorema di conservazione dell'energia meccanica afferma che se è presente una variazione di energia meccanica allora esiste una forza non conservativa il cui lavoro è diverso da zero: $$\Delta E_{\text{mecc}}\neq0\iff \exists \overrightarrow{F}_{\text{NonCons}}:\quad L^{AB}_{\overrightarrow{F}}\neq0$$
+E di conseguenza il teorema, in caso siano presenti forze non conservative, afferma che: $$\Delta E_\text{mecc}=L_{\overrightarrow{F}_\text{NonCons},\text{tot}}$$
 ### Potenza di una forza
 >[!note]
 >Si definisce potenza di una forza come: $$P(t)=\overrightarrow{F}(t)\cdot\overrightarrow{v}(t)\qquad [P]=\text{W}$$

@@ -41,6 +41,10 @@ In presenza della sola forza peso il moto dell'oggetto è un moto di caduta libe
 >dove $k$ è la costante elastica della molla e dipende dalla rigidità e forza della molla. Questa è detta legge di Hooke.
 >![[Pasted image 20240305130616.png | center]]
 
+>[!tip]
+>Si ha che per molle in serie: $$\frac{1}{k_{\text{eq}}}= \sum\limits_{i=1}^{n} \frac{1}{k_{i}}$$
+>Mentre per molle in parallelo: $$k_{\text{eq}}= \sum\limits_{i=1}^{n}k_{i}$$
+
 Considerando che l'equazione del moto e considerando $x''(t)=a(t)$ si ricava l'EDO del secondo ordine: $$x''(t)+\omega^{2}x(t)=0$$
 Dove $\omega^{2}:= \frac{k}{m}$. Si dimostra facilmente che questa ha soluzione: $$x(t)=A\cos(\omega t+\varphi)$$
 Che è l'equazione del moto armonico con periodo $T= 2\pi\sqrt{\frac{m}{k}}$.

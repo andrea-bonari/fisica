@@ -18,7 +18,7 @@ Come in precedenza è possibile dimostrare che: $$\overrightarrow{M}=rF\sin(\the
 >Sia che: $$\overrightarrow{F}=\frac{\text{d}\overrightarrow{p}}{\text{d}t}$$
 >Moltiplicando entrambi i membri vettorialmente per $\overrightarrow{r}$: $$\overrightarrow{r}\times\overrightarrow{F}=\overrightarrow{r}\times\frac{\text{d}\overrightarrow{p}}{\text{d}t}$$
 >Riguardo il primo membro, si ha che il momento delle risultante delle forze applicate equivale a: $$\overrightarrow{M}=\overrightarrow{r}\times(\overrightarrow{F}_{1}+\cdots+\overrightarrow{F}_{n})=\overrightarrow{M}_{1}+\cdots+\overrightarrow{M}_{n}$$
->Riguardo al secondo membro abbiamo che: $$\frac{\text{d}}{\text{d}t} \overrightarrow{L}= \frac{\text{d}}{\text{d}t} (\overrightarrow{r}\times \overrightarrow{p})= \underbrace{\frac{\text{d}\overrightarrow{r}}{\text{d}t}}\cdot \overrightarrow{p}+\overrightarrow{r}\times \frac{\text{d}\overrightarrow{p}}{\text{d}t}$$
+>Riguardo al secondo membro abbiamo che: $$\frac{\text{d}}{\text{d}t} \overrightarrow{L}= \frac{\text{d}}{\text{d}t} (\overrightarrow{r}\times \overrightarrow{p})= \frac{\text{d}\overrightarrow{r}}{\text{d}t}\cdot \overrightarrow{p}+\overrightarrow{r}\times \frac{\text{d}\overrightarrow{p}}{\text{d}t}$$
 >E quindi si ha che: $$\overrightarrow{M}= \frac{\text{d}\overrightarrow{L}}{\text{d}t}$$
 
 ### Velocità areorale

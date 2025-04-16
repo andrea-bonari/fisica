@@ -1,6 +1,5 @@
 >[!note]
 >Un processo di urto è un processo in cui 2 o più particelle si scambiano forze impulsive.
->Nei fenomeni di urto, pur di scegliere $t_{i}$ e $t_{f}$ attillati sull'urto, la quantità di moto totale si conserva, anche in presenza di forze esterne, purché queste siano di natura non impulsiva: $$p_{\text{tot},f}\simeq p_{\text{tot},i}$$
 
 ### Urto elastico
 >[!note]
@@ -14,3 +13,4 @@
 ### Urto completamente anaelastici
 >[!note]
 >Definiamo completamente anaelastico un urto con incastro, cioè le velocità finali degli oggetti si equivalgono
+ 

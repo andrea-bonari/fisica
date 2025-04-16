@@ -19,4 +19,5 @@ Il corso di Fisica inizia con un'introduzione alle grandezze fisiche, scalari e 
 5. [[Sistemi di particelle]]
 	1. [[Centro di massa]]
 	2. [[Processi di urto]]
-	3. [[Corpo rigido]]
+	3. [[Teorema di Koenig]]
+	4. [[Sistemi rigidi]]

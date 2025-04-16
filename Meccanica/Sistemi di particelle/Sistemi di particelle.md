@@ -30,8 +30,8 @@ Per ogni sistema di particelle si classificano le forze applicate in:
 
 ### Seconda equazione cardinale della dinamica per SP
 >[!note]
->Sia un SP composto da $n$ masse, si ha che l'equazione del moto del sistema è definita da: $$\overrightarrow{M}^{E}= \frac{\text{d}\overrightarrow{L}_\text{tot}}{\text{d}t}$$
->Con $\overrightarrow{M}^{E}$ momento risultante delle forze esterne e $\overrightarrow{L}_\text{tot}$ lavoro totale del sistema di particelle.
+>Sia un SP composto da $n$ masse, si ha che l'equazione del moto del sistema è definita da: $$\overrightarrow{M}^{E}_{CE}= \frac{\text{d}\overrightarrow{L}_\text{tot}}{\text{d}t}$$
+>Con $\overrightarrow{M}^{E}_{CE}$ momento risultante delle forze esterne al centro di massa e $\overrightarrow{L}_\text{tot}$ lavoro totale del sistema di particelle.
 
 >[!example] Dimostrazione
 >Sia un SP composto da $n$ masse, si ha che l'equazione del moto del sistema è definita da: $$\begin{cases}

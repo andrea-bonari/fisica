@@ -13,12 +13,12 @@ Riguardo l'energia potenziale si ha che: $$L_{\overrightarrow{F}_{g}}^{AB}= \lef
 >[!note]
 >Le leggi di Keplero affermano che:
 >1. I pianeti compiono orbite ellittiche attorno al sole con esso uno dei due fuochi.
->2. Il raggio vettore che collega il sole al pianeta spazza aree uguali in tempi uguali.
->3. Il quadrato dei periodi di rivoluzione è proporzionale al cubo del semiasse maggiore dell'ellisse ($T^{2}=kR^{2}$).
+>2. Il raggio vettore che collega il sole al pianeta spazza aree uguali in tempi uguali (velocità areorale costante).
+>3. Il quadrato dei periodi di rivoluzione è proporzionale al cubo del semiasse maggiore dell'ellisse ($T^{2}=kR^{3}$).
 
 ### Moto orbitale
 >[!note]
->Assegniamo a un punto materiale $P$ in orbita momento angolare $\overrightarrow{L}$ e energia meccanica $E$ costante. Si ha che se l'energia meccanica è positiva, avrà una traiettoria iperbolica, se l'energia meccanica è nulla avrà una traiettoria parabolica, e se è negativa avrà traiettoria ellittica. Inoltre se $E$ è pari al valore di energia potenziale efficace minima $U_{\text{eff}}= \frac{L^{2}}{2mr^{2}}- G \frac{Mm}{r}$ avrà traiettoria circolare.
+>Assegniamo a un punto materiale $P$ in orbita momento angolare $\overrightarrow{L}$ e energia meccanica $E_\text{mecc}$ costante. Si ha che se l'energia meccanica è positiva, avrà una traiettoria iperbolica, se l'energia meccanica è nulla avrà una traiettoria parabolica, e se è negativa avrà traiettoria ellittica. Inoltre se $E_\text{mecc}$ è pari al valore di energia potenziale efficace minima $U_{\text{eff}}= \frac{L^{2}}{2mr^{2}}- G \frac{Mm}{r}$ avrà traiettoria circolare.
 
 >[!example] Dimostrazione
 >Sia per ipotesi il momento angolare $\overrightarrow{L}$ costante: $$\overrightarrow{L}=\overrightarrow{r}\times\overrightarrow{p}= rp_{\perp}\hat{u}_{z}$$
