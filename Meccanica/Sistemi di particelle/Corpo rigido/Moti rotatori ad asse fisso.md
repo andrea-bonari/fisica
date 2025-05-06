@@ -71,4 +71,3 @@
 >&= d'^{2}+2Dy'+D^{2}
 >\end{align*}$$
 >Scrivendo ora il momento di inerzia relativo all'asse $z$ otteniamo: $$I= \int d^{2} \text{ d}m= \underbrace{\int d'^{2} \text{ d}m}_{I_{CM}}+\underbrace{\int 2Dy' \text{ d}m}_{0}+\underbrace{\int D^{2}\text{ d}m}_{MD^{2}}$$
->

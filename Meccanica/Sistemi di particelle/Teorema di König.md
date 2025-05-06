@@ -9,4 +9,3 @@
 ### Teorema dell'energia meccanica per i SP
 >[!note]
 >Se le forze $\overrightarrow{F}^{I}$ e $\overrightarrow{F}^{E}$ sono conservative allora si conserva l'energia meccanica, e di conseguenza: $$\Delta E_\text{mecc}=0$$
-
