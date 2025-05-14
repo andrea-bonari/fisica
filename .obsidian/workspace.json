@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Termodinamica/Calorimetria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Calorimetria"
             }
           }
         ],
@@ -182,6 +182,7 @@
   },
   "active": "260bda477d53743c",
   "lastOpenFiles": [
+    "Termodinamica/Leggi di stato.md",
     "Termodinamica/Proprietà dei gas perfetti.md",
     "index.md",
     "Termodinamica/Termodinamica.md",
@@ -190,7 +191,6 @@
     "Termodinamica/Calorimetria.md",
     "Hamming.md",
     "Introduzione al corso.md",
-    "Termodinamica/Leggi di stato.md",
     "data/Pasted image 20250507162303.png",
     "Meccanica/Meccanica classica.md",
     "Termodinamica/Principio zero della termodinamica.md",
