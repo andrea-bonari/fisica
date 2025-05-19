@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termodinamica/Calorimetria.md",
+                "file": "Termodinamica/Primo principio della termodinamica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calorimetria"
+              "title": "Primo principio della termodinamica"
             }
           }
         ],
@@ -182,13 +182,16 @@
   },
   "active": "260bda477d53743c",
   "lastOpenFiles": [
-    "Termodinamica/Leggi di stato.md",
-    "Termodinamica/Proprietà dei gas perfetti.md",
-    "index.md",
     "Termodinamica/Termodinamica.md",
+    "index.md",
+    "Termodinamica/Cicli termodinamici.md",
+    "data/Pasted image 20250519130752.png",
+    "Untitled.md",
+    "Termodinamica/Proprietà dei gas perfetti.md",
+    "Termodinamica/Leggi di stato.md",
+    "Termodinamica/Calorimetria.md",
     "Termodinamica/Trasformazioni termodinamiche.md",
     "Termodinamica/Primo principio della termodinamica.md",
-    "Termodinamica/Calorimetria.md",
     "Hamming.md",
     "Introduzione al corso.md",
     "data/Pasted image 20250507162303.png",
@@ -210,9 +213,6 @@
     "Termodinamica",
     "Meccanica/Sistemi di particelle/Corpo rigido/Moti rotatori ad asse fisso.md",
     "data/Pasted image 20250416131212.png",
-    "Meccanica/Dinamica/Moto armonico.md",
-    "Meccanica/Dinamica/Lavoro.md",
-    "Meccanica/Dinamica/Momento angolare.md",
     "data/Pasted image 20250415174251.png",
     "Meccanica/Sistemi di particelle/Statica dei fluidi",
     "Meccanica/Sistemi di particelle/Corpo rigido",
@@ -222,7 +222,6 @@
     "old/data/Pasted image 20240811154339.png",
     "old/data/Pasted image 20240410092757.png",
     "old/data/Pasted image 20240406170540.png",
-    "old/data/Pasted image 20240306154814.png",
     "Meccanica/Moti relativi",
     "Meccanica/Dinamica/Untitled",
     "Meccanica/Dinamica/Forze",

@@ -34,3 +34,4 @@ Il corso di Fisica inizia con un'introduzione alle grandezze fisiche, scalari e 
 	4. [[Calorimetria]]
 	5. [[Primo principio della termodinamica]]
 	6. [[Proprietà dei gas perfetti]]
+	7. [[Cicli termodinamici]]

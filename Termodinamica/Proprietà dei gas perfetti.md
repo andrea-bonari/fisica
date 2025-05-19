@@ -33,3 +33,38 @@
 >Se ne ricava allora: $$Q=nc_{V}\Delta T+nR \Delta T=n(c_{V}+R) \Delta T$$
 >Applicando $c_{\alpha}= \frac{1}{n} \frac{\delta Q}{\text{d}T}\bigg|_{\alpha}$, ricaviamo la relazione di Mayer: $$c_{p}=c_{V}+R$$
 >Comporta che $c_{p}>c_{V}$ e che $c_{p}$ non dipende dalla temperatura.
+
+### Trasformazioni adiabatiche di gas perfetti
+> [!note]  
+> Una trasformazione adiabatica quasistatica di un gas perfetto è un processo in cui non avviene scambio di calore con l’esterno ($Q = 0$). Possiamo determinare le relazioni tra le variabili di stato sfruttando il Primo Principio della Termodinamica e l’equazione di stato dei gas perfetti. Queste sono dette equazioni di Poisson: $$\begin{align*}
+>&TV^{\gamma-1}=\text{cost}\\
+>&pV^\gamma=\text{cost}\\
+>&Tp^{\frac{1-\gamma}{\gamma}}=\text{cost}
+>\end{align*}$$
+>Con $\gamma= \frac{c_{V}+R}{c_{V}}$.
+
+>[!example] Dimostrazione
+>Utilizzando l'espressione per $\Delta U$ nel caso di differenze infinitesime: $$\text{d}U=nc_{V}\text{d}T$$
+>Si può riscrivere la forma differenziale del Primo Principio come: $$\delta Q=\text{d}U+pdV=nc_{V}\text{d}T+pdV$$
+>Imponiamo allora che il calore scambiato sia nullo: $$nc_{V}\text{d}T+pdV=0$$
+>In questa espressione compaiono tutte e tre le coordinate termodinamiche, ma come noto solo due di queste sono indipendenti. Applichiamo quindi l'equazione di stato dei gas perfetti, sostituendo: $p= \frac{nRT}{V}$ si ottiene: $$\frac{\text{d}T}{T}=- \frac{R}{c_{V}}\frac{\text{d}V}{V}$$
+>Dove è stato semplificato $n$. A questo punto si integra tra uno stato iniziale e uno stato finale, si ricava: $$\frac{T}{T_{0}}=\left(\frac{V}{V_{0}}\right)^{- \frac{R}{c_{V}}}$$
+>Da cui si conclude che in una tale trasformazione: $$TV^{\frac{R}{c_{V}}}=T_{0}V_{0}^{\frac{R}{c_{V}}}=\text{cost}$$
+>Sostituendo $\gamma= \frac{c_{p}}{c_{V}}$, che nel caso di un gas perfetto è $\gamma= \frac{c_{V}+R}{c_{V}}$, si possono ricavare le equazioni di Poisson.
+
+ Poiché $Q = 0$, dal Primo Principio:$$L = -\Delta U = -nc_V (T_f - T_i) = nc_V (T_i - T_f)$$
+Se non sono note le temperature, ma sono noti pressione e volume iniziali e finali: $$L = \dfrac{c_V}{R} (p_i V_i - p_f V_f)$$
+### Trasformazioni politropiche
+>[!note]
+>Le trasformazioni politropiche sono definite da una legge del tipo $$pV^\alpha=\text{cost}$$
+>Che, tramite l'equazione di stato dei gas perfetti, può essere scritta come: $$TV^{\alpha-1}=\text{cost}\qquad tp^{\frac{1-\alpha}{\alpha}}=\text{cost}$$
+>Dove per le trasformazioni adiabatiche $\alpha= \gamma= \frac{g_{p}}{c_{V}}$, per le trasformazioni isoterme $\alpha=1$, per le trasformazioni isobare $\alpha=0$ e per le trasformazioni isocore $\alpha\to\infty$. Si ha che per queste trasformazioni in generale: $$c_{\alpha}=c_{V}+ \frac{R}{1-\alpha}$$
+
+>[!example] Dimostrazione
+>Applichiamo l'equazione per il calore molare di una trasformazione generica di un gas perfetto, e sostituiamo $\delta Q=nc_{V}\text{d}T+pdV$: $$c_\alpha=c_{V}+ \frac{p}{n} \frac{\text{d}V}{\text{d}T}\bigg|_{\alpha}$$
+>Usando l'equazione dei gas perfetti ci riduciamo alle sole variabili $T$ e $V$: $$\frac{p}{n}=R \frac{T}{V}\Longrightarrow c_{\alpha}=c_{V} + R \frac{T}{V}\frac{\text{d}V}{\text{d}T}\bigg|_{\alpha}$$
+>Invertendo e derivando appropriatamente $TV^{\alpha-1}=C$ otteniamo: $$V= \frac{C^{\frac{1}{\alpha-1}}}{T^{\frac{1}{\alpha-1}}}\Longrightarrow \frac{\text{d}V}{\text{d}T}= - \frac{1}{\alpha-1}\frac{C^{\frac{1}{\alpha-1}}}{T^{\frac{1}{\alpha-1}}}$$
+>Che sostituendo nell'equazione precedente: $$c_{\alpha}=c_{V}+RT \frac{T^{\frac{1}{\alpha-1}}}{C^{\frac{1}{\alpha-1}}}\cdot \left(- \frac{1}{\alpha-1}\right)\frac{C^{\frac{1}{\alpha-1}}}{T^{\frac{1}{\alpha-1}}}=c_{V}+ \frac{R}{1-\alpha}$$
+
+Si osserva inoltre che il calore molare di una qualsiasi politropica è costante, e da esso si può ricavare immediatamente il calore scambiato lungo la trasformazione: $$Q=n c_{\alpha}\Delta T=cn_{V} \Delta T+ \frac{nR\Delta T}{1-\alpha}$$
+Applicando il primo principio della termodinamica: $$L=Q-\Delta U=Q- nc_{V} \Delta T= \frac{nR \Delta T}{1-\alpha}$$
