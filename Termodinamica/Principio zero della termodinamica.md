@@ -24,5 +24,5 @@ Ha come vantaggi:
 - I gas tendono a comportarsi allo stesso modo a bassa pressione, quindi: $T=\lim_{p_{0}\to0} \frac{p}{p_{0}}T_{0}$
 
 >[!tip] Scala Kelvin
->Si ha che: $$t_\text{Celsius}=T_\text{Kelvin}-273.15$$
+>Si ha che: $$T_\text{Celsius}=T_\text{Kelvin}-273.15$$
 

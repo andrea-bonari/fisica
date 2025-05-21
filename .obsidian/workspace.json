@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "63b23802d6053b18",
+        "id": "c78dcc2fcdfd00e3",
         "type": "tabs",
         "children": [
           {
-            "id": "ebe30f966c716f38",
+            "id": "b05fbe1e36683e8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termodinamica/Leggi di stato.md",
+                "file": "Termodinamica/Entropia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leggi di stato"
-            }
-          },
-          {
-            "id": "260bda477d53743c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Termodinamica/Primo principio della termodinamica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Primo principio della termodinamica"
+              "title": "Entropia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,30 +165,32 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "260bda477d53743c",
+  "active": "b05fbe1e36683e8c",
   "lastOpenFiles": [
-    "Termodinamica/Termodinamica.md",
-    "index.md",
     "Termodinamica/Cicli termodinamici.md",
-    "data/Pasted image 20250519130752.png",
-    "Untitled.md",
-    "Termodinamica/Proprietà dei gas perfetti.md",
-    "Termodinamica/Leggi di stato.md",
-    "Termodinamica/Calorimetria.md",
+    "Termodinamica/Entropia.md",
+    "Termodinamica/Secondo principio della termodinamica.md",
+    "Termodinamica/Termodinamica.md",
+    "Introduzione al corso.md",
+    "index.md",
     "Termodinamica/Trasformazioni termodinamiche.md",
     "Termodinamica/Primo principio della termodinamica.md",
+    "Termodinamica/Proprietà dei gas perfetti.md",
+    "Termodinamica/Principio zero della termodinamica.md",
+    "Termodinamica/Calorimetria.md",
+    "Meccanica/Sistemi di particelle/Centro di massa.md",
+    "Meccanica/Sistemi di particelle/Processi di urto.md",
+    "Meccanica/Sistemi di particelle/Sistemi di particelle.md",
+    "Termodinamica/Leggi di stato.md",
+    "data/Pasted image 20250519130752.png",
+    "Untitled.md",
     "Hamming.md",
-    "Introduzione al corso.md",
     "data/Pasted image 20250507162303.png",
     "Meccanica/Meccanica classica.md",
-    "Termodinamica/Principio zero della termodinamica.md",
     "Meccanica/Sistemi di particelle/Statica dei fluidi/Legge di Archimede.md",
     "Meccanica/Cinematica/Cinematica del punto materiale.md",
     "Meccanica/Cinematica/Cinematica vettoriale.md",
     "Meccanica/Sistemi di particelle/Statica dei fluidi/Statica dei fluidi pesanti.md",
-    "Meccanica/Sistemi di particelle/Sistemi di particelle.md",
-    "Meccanica/Sistemi di particelle/Processi di urto.md",
-    "Meccanica/Sistemi di particelle/Centro di massa.md",
     "Meccanica/Sistemi di particelle/Teorema di König.md",
     "Meccanica/Sistemi di particelle/Corpo rigido/Moti rotatori ad asse mobile.md",
     "Meccanica/Sistemi di particelle/Statica dei fluidi/Fluidi.md",
@@ -211,7 +198,6 @@
     "data/Pasted image 20250429230445.png",
     "Codici di hamming.md",
     "Termodinamica",
-    "Meccanica/Sistemi di particelle/Corpo rigido/Moti rotatori ad asse fisso.md",
     "data/Pasted image 20250416131212.png",
     "data/Pasted image 20250415174251.png",
     "Meccanica/Sistemi di particelle/Statica dei fluidi",
