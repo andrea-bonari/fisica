@@ -18,6 +18,9 @@
 >Con $m_{m}$ massa molare. Perciò possiamo scrivere la variazione di energia interna di un gas perfetto come: $$\Delta U= nc_{V}\Delta T$$
 >Con $c_{V}$ calore molare a volume costante e $n$ numero di moli di gas.
 
+Si ha per i gas monoatomici che: $$c_{V,\text{monoatomici}}= \frac{3}{2}R$$
+Mentre per i gas diatomici: $$c_{V,\text{diatomici}}= \frac{5}{2}R$$
+
 ### Relazione di Mayer
 >[!note]
 >La relazione di Mayer lega i valori del calore molare a pressione costante e a volume costante di un gas perfetto. È definita come: $$c_{p}=c_{V}+R$$

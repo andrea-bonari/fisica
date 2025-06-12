@@ -16,3 +16,4 @@ Possiamo notare un analogia col teorema dell'energia cinetica.
 >[!note]
 >Una forza è detta impulsiva se genera un impulso (variazione di modo) finito se applicate su un intervallo di tempo tendente a $0$.
 
+La reazione normale è una forza impulsiva.

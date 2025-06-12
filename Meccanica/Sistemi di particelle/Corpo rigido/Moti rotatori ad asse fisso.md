@@ -53,6 +53,15 @@
 >[!example] Dimostrazione
 >Si ha che, per un solido omogeneo di densità $\rho$ uniforme, l'elemento di massa $\text{d}m$ all'interno dell'integrale si può scrivere come $\text{d}m=\rho \text{ d}V$. da cui: $$I= \int d^{2}\text{ d}m=\int d^{2}\rho \text{ d}V= \rho\int d^{2}\text{ d} V= M \cdot \frac{\int d^{2} \text{ d}V}{V}$$
 
+I più comuni momenti di inerzia sono:
+
+| Forma               | Asse di rotazione                                       | Valore                 |
+| ------------------- | ------------------------------------------------------- | ---------------------- |
+| Disco pieno         | Perpendicolare al disco e passante per il centro        | $$\frac{1}{2}mR^{2}$$  |
+| Sbarra rettangolare | Perpendicolare alla lunghezza e passante per il centro  | $$\frac{1}{12}mL^{2}$$ |
+| Sbarra rettangolare | Perpendicolare alla lunghezza e passante per un estremo | $$\frac{1}{3}mL^{2}$$  |
+| Anello sottile      | Perpendicolare all'anello e passante per il centro      | $$mR^{2}$$             |
+
 ### Teorema di Huygens-Steiner
 >[!note]
 >Il momento di inerzia di un corpo rigido di massa $m$, rispetto ad un asse $z$ posta a distanza $D$ dal centro di massa, è dato da: $$I_{z}= I_{CM}+ mD^{2}$$
