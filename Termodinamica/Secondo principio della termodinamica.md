@@ -1,7 +1,6 @@
 >[!note]
 >Il primo principio della termodinamica afferma l'equivalenza tra calore e lavoro, ma nella pratica la trasformazione di calore in lavoro è difficile e non completamente efficiente. Per chiarire questi limiti nasce il secondo principio della termodinamica, che introduce un vincolo fondamentale. Secondo Kelvin-Plank è impossibile realizzare una trasformazione termodinamica ciclica che produca lavoro netto positivo estraendo calore da un unico termostato.
 
-
 Si parla di un ciclo termodinamico, dove il sistema ritorna allo stato iniziale, quindi si ha $\Delta U=0$, inoltre abbiamo lavoro netto positivo quindi $L>0$. Ricordiamo infine che si ha un solo termostato. Dal punto di vista matematico, in un ciclo monoterma si ha: $$Q=L\leq 0$$
 Dove se il ciclo è reversibile $Q=L=0$, mentre se non lo è $Q=L<0$.
 
